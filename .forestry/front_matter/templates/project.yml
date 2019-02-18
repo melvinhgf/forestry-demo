@@ -16,7 +16,7 @@ fields:
   type: file
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
-  default: ''
+  default: "/uploads/2017/11/14/filipe-almeida-192048 (1).jpg"
 - name: tags
   label: Tags
   type: tag_list
